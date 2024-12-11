@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.2
 // @description  将所有 linux.do 域名下的 GIF 图片链接改为 PNG（增强版）
-// @author       Your name
+// @author       onewhiteClaude
 // @match        https://linux.do/*
 // @grant        none
 // ==/UserScript==
