@@ -17,7 +17,8 @@
    - [Greasemonkey](https://www.greasespot.net/)
    - [Violentmonkey](https://violentmonkey.github.io/)
 
-2. 点击此链接安装脚本：[安装脚本](../../raw/main/Gif2Png.js)
+2. 点击此链接安装脚本：[安装脚本](../../raw/main/Gif2Png.user.js)
+
 
 ## 使用说明
 
